@@ -1,6 +1,6 @@
 # flutter_diceee
 
-Flutter Dicee App
+Flutter Dicee App, roll the dice and find out who won! 🪙🎲
 
 ## Getting Started
 
